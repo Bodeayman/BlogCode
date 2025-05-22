@@ -1,0 +1,51 @@
+.nav-item,
+.navbar-brand {
+    margin: 20px;
+}
+
+.navbar-brand {
+    margin-bottom: 5px;
+}
+
+* {
+    font-family: "Poppins";
+    box-sizing: border-box;
+}
+
+.navbar-toggler-icon {
+    border: none;
+}
+
+.navSelected {
+    border-bottom: 2px solid green;
+}
+
+
+@media (max-width:700px) {}
+
+.nav-item {
+    margin: 0px 20px 0px 20px;
+    padding-top: 0px;
+    padding-bottom: 30px;
+    transition: 0.1s ease;
+    -webkit-transition: 0.1s ease;
+    -moz-transition: 0.1s ease;
+    -ms-transition: 0.1s ease;
+    -o-transition: 0.1s ease;
+}
+
+.nav-link::after {}
+
+.nav-item:hover {
+    border-bottom: 3px solid rgb(0, 255, 8);
+    margin-bottom: -3px;
+}
+
+.mainPage {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.mainPage * {
+    margin: 20px 0px;
+}

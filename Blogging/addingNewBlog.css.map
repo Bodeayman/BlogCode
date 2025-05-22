@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACJ,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;CAatB;;AAjBD,AAMI,OANG,CAMH,CAAC,CAAC;EACE,OAAO,EAAE,IAAI;EACb,MAAM,EAAE,IAAI;CACf;;AATL,AAWI,OAXG,EAWH,AAAA,IAAC,CAAD,QAAC,AAAA,EAAe;EACZ,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;CAGhB",
+    "sources": [
+        "addingNewBlog.scss"
+    ],
+    "names": [],
+    "file": "addingNewBlog.css"
+}
